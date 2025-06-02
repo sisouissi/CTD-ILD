@@ -1,5 +1,6 @@
 {
   "name": "CTD-ILD Diagnostic Assistant",
   "description": "A progressive diagnostic assistant for Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD), based on 2020 guidelines. It helps in correlating radio-clinical diagnoses, requesting essential exams, determining the final diagnosis, and suggesting therapeutic approaches and follow-up.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
